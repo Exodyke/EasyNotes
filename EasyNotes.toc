@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: [|cffFFFF00Easy|r|cffFF4500Notes|r] by |cffc41f3bExodyke|r
+## SavedVariables: EasyNotesDB, EasyNotesSettings
+## Author: Exodyke
+
+EasyNotes.lua
